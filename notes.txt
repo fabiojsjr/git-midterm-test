@@ -1,2 +1,3 @@
 Git is a powerful version control system.
+
 Merging combines work from multiple branches.
